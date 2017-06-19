@@ -19,6 +19,7 @@ var font = "arial";var font2 = "7seg4";var size = "27";var l_height = "27";var b
 var space = "50px 0px 0px 0px";
 var align = "2";var img = "";
 var color1 = "FFFFFF";var color2 = "FF0000";var color3 = "000000";
+
 </script>
 <script type="text/javascript" src="http://countdown.reportitle.com/js/neo1_01.js"></script><a href="http://countdown.reportitle.com/">カウントダウンタイマー</a><script type="text/javascript" src="http://countdown.reportitle.com/js/neo2.js"></script>
 
