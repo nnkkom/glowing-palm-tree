@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Module>
+  <!-- ガジェット名 -->
+  <ModulePrefs title="myapp2" />
+	<Locale lang="ja" country="jp" />  
+	<Require feature="dynamic-height" />
+  </ModulePrefs>
+  <Content type="html">
+    <![CDATA[
+<script type="text/javascript">
+var year = "2017";var month = "6";var day = "26";var hour = "0";var minute = "0";var centi = "5";
+var convert = "1";var roop = "";
+var cnt1 = "日";var cnt2 = "：";var cnt3 = "：";var cnt4 = ".";
+var baseoffset = "none";var cuttime = "";
+var br1 = "";var br2 = "";var br3 = "";var br4 = "";
+var com1 = "あと ";var com2 = "";var com3 = "です";var com4 = "カウントダウン終了";var end = "2";
+var width = "400";var height = "125";
+var font = "arial";var font2 = "7seg4";var size = "27";var l_height = "27";var bold = "";var italic = "";var line = "";
+var space = "50px 0px 0px 0px";
+var align = "2";var img = "";
+var color1 = "FFFFFF";var color2 = "FF0000";var color3 = "000000";
+</script>
+<script type="text/javascript" src="http://countdown.reportitle.com/js/neo1_01.js"></script><a href="http://countdown.reportitle.com/">カウントダウンタイマー</a><script type="text/javascript" src="http://countdown.reportitle.com/js/neo2.js"></script>
+
+    ]]>
+  </Content>
+</Module>
